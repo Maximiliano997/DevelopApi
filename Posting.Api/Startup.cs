@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Posting.Core.Interfaces;
+using Posting.Core.Services;
 using Posting.Infrastructure.Data;
 using Posting.Infrastructure.Filters;
 using Posting.Infrastructure.Repositories;
@@ -40,7 +41,8 @@ namespace Posting.Api
             services.AddDbContext<PostingContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("Posting")));
 
-            services.AddTransient<IPostRepository, PostRepository>();
+            services.AddTransient<IPostService, PostService>();
+            services.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
 
             services.AddMvc(options => 
             {
