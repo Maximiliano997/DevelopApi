@@ -1,0 +1,10 @@
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\bin\Debug\netcoreapp3.1\Posting.Core.deps.json
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\bin\Debug\netcoreapp3.1\Posting.Core.dll
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\bin\Debug\netcoreapp3.1\Posting.Core.pdb
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\obj\Debug\netcoreapp3.1\Posting.Core.csproj.AssemblyReference.cache
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\obj\Debug\netcoreapp3.1\Posting.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\obj\Debug\netcoreapp3.1\Posting.Core.AssemblyInfoInputs.cache
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\obj\Debug\netcoreapp3.1\Posting.Core.AssemblyInfo.cs
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\obj\Debug\netcoreapp3.1\Posting.Core.csproj.CoreCompileInputs.cache
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\obj\Debug\netcoreapp3.1\Posting.Core.dll
+C:\Users\MaxiG\source\repos\Posting\Posting.Core\obj\Debug\netcoreapp3.1\Posting.Core.pdb

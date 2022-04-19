@@ -1,0 +1,16 @@
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\bin\Debug\netcoreapp3.1\Posting.Infrastructure.deps.json
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\bin\Debug\netcoreapp3.1\Posting.Infrastructure.dll
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\bin\Debug\netcoreapp3.1\Posting.Infrastructure.pdb
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\bin\Debug\netcoreapp3.1\Posting.Core.dll
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\bin\Debug\netcoreapp3.1\Posting.Core.pdb
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\obj\Debug\netcoreapp3.1\Posting.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\obj\Debug\netcoreapp3.1\Posting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\obj\Debug\netcoreapp3.1\Posting.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\obj\Debug\netcoreapp3.1\Posting.Infrastructure.AssemblyInfo.cs
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\obj\Debug\netcoreapp3.1\Posting.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\obj\Debug\netcoreapp3.1\Posting.Infrastructure.csproj.CopyComplete
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\obj\Debug\netcoreapp3.1\Posting.Infrastructure.dll
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\obj\Debug\netcoreapp3.1\Posting.Infrastructure.pdb
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\bin\Debug\netcoreapp3.1\Posting.Infrastructure.runtimeconfig.json
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\bin\Debug\netcoreapp3.1\Posting.Infrastructure.runtimeconfig.dev.json
+C:\Users\MaxiG\source\repos\Posting\Posting.Infrastructure\obj\Debug\netcoreapp3.1\Posting.Infrastructure.genruntimeconfig.cache
